@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>블로그</description>
+    <link>
+    https://junseung2.github.io</link>
+    
+      
+      <item>
+        <title>CXL의 첫번째 글</title>
+        
+          <description>&lt;p&gt;이글은 CXL에 관한 첫 번째 글입니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 19 Aug 2023 22:32:00 +0900</pubDate>
+        <link>
+        https://junseung2.github.io/cxl</link>
+        <guid isPermaLink="true">https://junseung2.github.io/cxl</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>PCIe 강좌(1) - PCIe Overview 2</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;PCIe 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview1&quot;&gt;PCIe 강좌(1) - PCIe Overview 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview2&quot;&gt;PCIe 강좌(1) - PCIe Overview 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Wed, 16 Aug 2023 14:20:00 +0900</pubDate>
+        <link>
+        https://junseung2.github.io/pcie-overview2</link>
+        <guid isPermaLink="true">https://junseung2.github.io/pcie-overview2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>PCIe 강좌(1) - PCIe Overview 1</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;PCIe 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview1&quot;&gt;PCIe 강좌(1) - PCIe Overview 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview2&quot;&gt;PCIe 강좌(1) - PCIe Overview 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Wed, 16 Aug 2023 14:20:00 +0900</pubDate>
+        <link>
+        https://junseung2.github.io/pcie-overview1</link>
+        <guid isPermaLink="true">https://junseung2.github.io/pcie-overview1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>CA의 첫번째 글</title>
+        
+          <description>&lt;p&gt;이글은 CA에 관한 첫 번째 글입니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 16 Aug 2023 14:20:00 +0900</pubDate>
+        <link>
+        https://junseung2.github.io/basic</link>
+        <guid isPermaLink="true">https://junseung2.github.io/basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://junseung2.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://junseung2.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

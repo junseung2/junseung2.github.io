@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://junseung2.github.io/tag/computer-architecture/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://junseung2.github.io/" rel="alternate" type="text/html" />
+  <updated>2023-08-20T15:56:32+09:00</updated>
+  <id>https://junseung2.github.io/tag/computer-architecture/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT Tech | </title>
+  
+
+  
+    <subtitle>블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">CA의 첫번째 글</title>
+      <link href="https://junseung2.github.io/basic" rel="alternate" type="text/html" title="CA의 첫번째 글" />
+      <published>2023-08-16T14:20:00+09:00</published>
+      <updated>2023-08-16T14:20:00+09:00</updated>
+      <id>https://junseung2.github.io/basic</id>
+      <content type="html" xml:base="https://junseung2.github.io/basic">&lt;p&gt;이글은 CA에 관한 첫 번째 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>junseung2</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Computer Architecture" />
+      
+
+      
+        <summary type="html">이글은 CA에 관한 첫 번째 글입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

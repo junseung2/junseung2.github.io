@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://junseung2.github.io/author/junseung2/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://junseung2.github.io/" rel="alternate" type="text/html" />
+  <updated>2023-08-20T15:56:32+09:00</updated>
+  <id>https://junseung2.github.io/author/junseung2/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT Tech | </title>
+  
+
+  
+    <subtitle>블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">CXL의 첫번째 글</title>
+      <link href="https://junseung2.github.io/cxl" rel="alternate" type="text/html" title="CXL의 첫번째 글" />
+      <published>2023-08-19T22:32:00+09:00</published>
+      <updated>2023-08-19T22:32:00+09:00</updated>
+      <id>https://junseung2.github.io/cxl</id>
+      <content type="html" xml:base="https://junseung2.github.io/cxl">&lt;p&gt;이글은 CXL에 관한 첫 번째 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>junseung2</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="CXL" />
+      
+
+      
+        <summary type="html">이글은 CXL에 관한 첫 번째 글입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">PCIe 강좌(1) - PCIe Overview 1</title>
+      <link href="https://junseung2.github.io/pcie-overview1" rel="alternate" type="text/html" title="PCIe 강좌(1) - PCIe Overview 1" />
+      <published>2023-08-16T14:20:00+09:00</published>
+      <updated>2023-08-16T14:20:00+09:00</updated>
+      <id>https://junseung2.github.io/pcie-overview1</id>
+      <content type="html" xml:base="https://junseung2.github.io/pcie-overview1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;PCIe 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview1&quot;&gt;PCIe 강좌(1) - PCIe Overview 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview2&quot;&gt;PCIe 강좌(1) - PCIe Overview 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이글은 pcie에 관한 첫 번째 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>junseung2</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="PCI-Express" />
+      
+
+      
+        <summary type="html">PCIe 강좌는 여러 절로 구성되어 있습니다. PCIe 강좌(1) - PCIe Overview 1 PCIe 강좌(1) - PCIe Overview 2</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">PCIe 강좌(1) - PCIe Overview 2</title>
+      <link href="https://junseung2.github.io/pcie-overview2" rel="alternate" type="text/html" title="PCIe 강좌(1) - PCIe Overview 2" />
+      <published>2023-08-16T14:20:00+09:00</published>
+      <updated>2023-08-16T14:20:00+09:00</updated>
+      <id>https://junseung2.github.io/pcie-overview2</id>
+      <content type="html" xml:base="https://junseung2.github.io/pcie-overview2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;PCIe 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview1&quot;&gt;PCIe 강좌(1) - PCIe Overview 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./PCIe-Overview2&quot;&gt;PCIe 강좌(1) - PCIe Overview 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이글은 pcie에 관한 첫 번째 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>junseung2</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="PCI-Express" />
+      
+
+      
+        <summary type="html">PCIe 강좌는 여러 절로 구성되어 있습니다. PCIe 강좌(1) - PCIe Overview 1 PCIe 강좌(1) - PCIe Overview 2</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">CA의 첫번째 글</title>
+      <link href="https://junseung2.github.io/basic" rel="alternate" type="text/html" title="CA의 첫번째 글" />
+      <published>2023-08-16T14:20:00+09:00</published>
+      <updated>2023-08-16T14:20:00+09:00</updated>
+      <id>https://junseung2.github.io/basic</id>
+      <content type="html" xml:base="https://junseung2.github.io/basic">&lt;p&gt;이글은 CA에 관한 첫 번째 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>junseung2</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Computer Architecture" />
+      
+
+      
+        <summary type="html">이글은 CA에 관한 첫 번째 글입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Gettysburg Address</title>
+      <link href="https://junseung2.github.io/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" />
+      <published>1863-11-19T19:18:00+09:00</published>
+      <updated>1863-11-19T19:18:00+09:00</updated>
+      <id>https://junseung2.github.io/gettysburg-address</id>
+      <content type="html" xml:base="https://junseung2.github.io/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+
+&lt;p&gt;But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>junseung2</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
